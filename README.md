@@ -2,10 +2,7 @@
 
 I like building products and solutions that solve real-world problems.  
 
-## 🚀 What I work with  
-
-## 🚀 What I work with  
-
+## 🚀 What I work with   
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -23,5 +20,5 @@ I like building products and solutions that solve real-world problems.
 
 ## 📫 Let's connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sharma-a0aa26217/)  
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/shrutihereee)  
