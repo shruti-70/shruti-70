@@ -1,6 +1,6 @@
 # Hey there, I'm Shruti 👋  
 
-I like building products and solutions that solve real-world problems.  
+I like building solutions that solve real-world problems.  
 
 ## 🚀 What I work with   
 <p align="center">
