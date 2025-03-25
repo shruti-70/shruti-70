@@ -1,4 +1,4 @@
-# Hey there, I'm Shruti 👋  
+# Hey there, I'm Shruti 
 
 I like building solutions that solve real-world problems.  
 
