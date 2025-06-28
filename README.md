@@ -1,7 +1,7 @@
 # Hey there, I'm Shruti 
 
 I like building solutions that solve real-world problems.  
-
+<img src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 ## 🚀 What I work with   
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
