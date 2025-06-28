@@ -1,6 +1,7 @@
 # Hey there, I'm Shruti 
 
 I like building solutions that solve real-world problems.  
+
 <img src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 ## 🚀 What I work with   
 <p align="center">
@@ -19,6 +20,4 @@ I like building solutions that solve real-world problems.
 </p>
 
 ## 📫 Let's connect!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sharma-a0aa26217/)  
-[![](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/shrutihereee)  
+[![](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/shrutalme)  
