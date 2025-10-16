@@ -19,5 +19,3 @@ I like building solutions that solve real-world problems.
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-## 📫 Let's connect!  
-[![](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/shrutalme)  
